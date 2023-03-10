@@ -5,6 +5,7 @@ https://opensource.org/licenses/bsd-license.php?utm_medium=Exinfluencer&utm_sour
 https://www.edx.org/course/getting-started-with-mysql
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0110EN-SkillsNetwork/datasets/sakila/sakila_ERD.jpg
+
 MySQL command line (CLI) to:
 
 Create a database.
